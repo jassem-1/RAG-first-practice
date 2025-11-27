@@ -1,0 +1,6 @@
+langchain-community==0.3.0
+langchain-groq
+sentence-transformers
+faiss-cpu
+python-dotenv
+tqdm
